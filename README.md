@@ -13,7 +13,7 @@
 - 2 x Glorious GMMK Pro Rotary Knobs
 - 2 x LiPo 130mAh 401230 JST Batteries
 - 58 x Boba U4T
-- 58 x XDA Keycaps
+- 58 x XDA Keycaps 
 
 ## License
 
